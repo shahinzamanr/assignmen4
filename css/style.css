@@ -1,0 +1,38 @@
+
+.impression  {
+	width: 60%;
+	margin: 0 auto;
+	border: 3px solid black;
+	background-color: lightpink;
+}
+
+ label {
+	font-size: 25px ;
+}
+.first_name, .last_name, .email, .password {
+	width: 80%;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px;
+}
+
+.message {
+	font-size: 18px;
+	padding: 10px;
+}
+
+table {
+	width: 100%;
+	border: 2px solid black;
+	background-color: pink;
+}
+
+th, td {
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+#border {
+	border-collapse: collapse;
+}
